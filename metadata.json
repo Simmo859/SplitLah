@@ -1,0 +1,8 @@
+{
+  "name": "Splitlah - SG Bill Splitter",
+  "description": "An AI-powered bill splitter optimized for Singapore restaurants. Upload receipts, assign items to friends, and generate PayNow breakdowns automatically.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
